@@ -1,4 +1,11 @@
 *{
-background-color:#888;
-font-size: 15em;
+background-color:#FFFFFF;
+<<<<<<< HEAD
+font-size: 10em;
+=======
+}
+
+p{
+font-weight: bold;
+>>>>>>> css-styles
 }
